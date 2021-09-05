@@ -1,0 +1,1 @@
+INSERT INTO prac VALUES(1,'ikeda',sysdate);
