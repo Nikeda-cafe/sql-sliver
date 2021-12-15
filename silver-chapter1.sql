@@ -20,7 +20,7 @@ create table emp (
 );
 
 insert into emp values(1001,'Tom','SALESMAN',720,0.50,NULL,20);
-insert into emp values(1001,'Abe','ASSISTANT',600,NULL,1000,20);
-insert into emp values(1001,'Clark','SALESMAN',720,NULL,500,20);
-insert into emp values(1001,'Blake','ASSISTANT',720,NULL,720,10);
-insert into emp values(1001,'Zakk','MANAGER',900,NULL,2000,20);
+insert into emp values(1002,'Abe','ASSISTANT',600,NULL,1000,20);
+insert into emp values(1003,'Clark','SALESMAN',720,NULL,500,20);
+insert into emp values(1004,'Blake','ASSISTANT',720,NULL,720,10);
+insert into emp values(1005,'Zakk','MANAGER',900,NULL,2000,20);
